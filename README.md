@@ -21,3 +21,5 @@ The core components of automated report generation include data sources, data pr
 Automated Report Generation is a process that uses software systems to collect data, analyze it, and produce structured reports without manual effort. It combines data extraction, processing logic, and predefined templates to generate consistent, accurate, and timely reports. This approach is widely used in business, education, healthcare, finance, and IT operations where regular reporting is required. By automating repetitive reporting tasks, organizations can save time, reduce human errors, and improve decision making.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/34306da6-cfcb-4489-a5fd-721a2ff0a179)
